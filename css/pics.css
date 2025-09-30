@@ -1,0 +1,13 @@
+/* Hero Section */
+.hero-visual {
+  flex: 1 1 40%;
+  text-align: center;
+}
+
+.hero-visual img {
+  max-width: 300px;
+  border-radius: 50%; /* makes photo circular */
+  border: 4px solid #00bcd4;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+}
+
